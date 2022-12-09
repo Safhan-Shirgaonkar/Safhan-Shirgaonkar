@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Safhan Shirgaonkar</h1>
-<h3 align="center">A passionate and enthusiast coder</h3>
+<h3 align="center">A passionate and enthusiastic coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safhan-shirgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="safhan-shirgaonkar" /> </p>
 
-- 🌱 I’m currently learning **DSA in Python, Web Development**
+- 🌱 I’m currently learning **DSA in Python and Web Development**
 
-- 💬 Ask me about **Python,OOPS concept, DSA**
+- 💬 Ask me about **Python,OOPS concept, DSA, Web Development**
 
 - 📫 How to reach me **shirgaonkar2003@gmail.com**
 
