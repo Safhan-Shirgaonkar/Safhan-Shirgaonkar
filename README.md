@@ -27,4 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safhan-shirgaonkar&show_icons=true&locale=en" alt="safhan-shirgaonkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safhan-shirgaonkar&" alt="safhan-shirgaonkar" /></p>
-<p><img align="right" alt="Coding" width="400" src="https://www.holopin.io/userbadge/cl9jwtfur043409i3lau595wc" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=safhan-shirgaonkar&](https://www.holopin.io/userbadge/cl9jwtfur043409i3lau595wc)" alt="safhan-shirgaonkar" /></p>
+
+
