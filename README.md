@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safhan-shirgaonkar&show_icons=true&locale=en" alt="safhan-shirgaonkar" /></p>
 
-<p><img align="center" src="(https://holopin.me/safhanshirgaonkar)](https://holopin.io/@safhanshirgaonkar)" /></p>
+[![@safhanshirgaonkar's Holopin board](https://holopin.me/safhanshirgaonkar)](https://holopin.io/@safhanshirgaonkar)
 
 
 
