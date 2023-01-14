@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/username=safhan-shirgaonkar&show_icons=true&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="safhan-shirgaonkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/username=safhan-shirgaonkar&show_icons=true&locale=en" alt="safhan-shirgaonkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/username=safhan-shirgaonkar&show_icons=true&locale=en" alt="safhan-shirgaonkar" /></p>
 
 
 
