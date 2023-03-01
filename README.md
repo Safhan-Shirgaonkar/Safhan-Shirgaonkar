@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safhan Eliyas Shirgaonkar</h1>
-<h3 align="center">A passionate and enthusiast coder</h3>
+<h3 align="center">A passionate and enthusiastic coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safhan-shirgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="safhan-shirgaonkar" /> </p>
 
