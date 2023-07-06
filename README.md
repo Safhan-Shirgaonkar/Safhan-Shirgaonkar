@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python,OOPS concept, DSA,Web Development**
 
-- 📫 How to reach me **shirgaonkar2003@gmail.com**
+- 📫 How to reach me **shirgaonkarsafhan73@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
